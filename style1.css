@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: yellow;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    
+}
+header nav ul li {
+    display: inline-block;
+    padding: 30px;
+}
+main article img
+{
+    width: 100 px;
+
+}
+header h1{
+    text-align: center
+}
+header h2   {
+    text-align: center;
+}
+main h4 {
+    text-align: left;
+
+}
+img{
+    width: 1000px;
+    haight: 700px;
+    display: block;
+}
+footer{
+    color:#ff0f;
+    text-align: center
+    
+}
+img
+{
+    width: 1342px;
+    haight: 700px;
+    display: block; }
+}
+main h3{
+    text-align: center
+}
