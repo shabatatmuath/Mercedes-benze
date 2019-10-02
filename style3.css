@@ -2,6 +2,11 @@ body {
     background-color: black;
     color: white;
 }
+.style{
+    width: 250px;
+    haight: 250 px;
+    margin: 10px;
+}
 a{
     text-decoration: none;
     color: white;
